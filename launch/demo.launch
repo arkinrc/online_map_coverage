@@ -1,0 +1,6 @@
+<launch>
+   
+  <node pkg="online_map_coverage" type="online_map_coverage_node" name="online_map_coverage_node" > 		
+  </node>
+
+</launch>
